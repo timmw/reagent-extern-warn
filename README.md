@@ -1,6 +1,6 @@
 1. clone this
 2. npm install
-3. npm shadow-cljs watch app
+3. npx shadow-cljs watch app
 4. see following warning in terminal
 
 ```
