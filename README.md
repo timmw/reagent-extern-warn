@@ -1,3 +1,5 @@
+**Should be fixed in next release of reagent https://github.com/reagent-project/reagent/pull/586**
+
 1. clone this
 2. npm install
 3. npx shadow-cljs watch app
